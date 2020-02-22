@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/CliffChen0541/AICC%20Release%20Testing/_apis/build/status/lifftw.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/CliffChen0541/AICC%20Release%20Testing/_build/latest?definitionId=13&branchName=master)
+
 # Python/Flask tutorial sample for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
